@@ -26,13 +26,13 @@
     </div>
     <div>
         <label for="subject">Sujet de la demande:</label>
-        <SELECT name="subject" id="subject" size="1">
-            <OPTION value="">Sujet de la demande</OPTION>
-            <OPTION>Facture</OPTION>
-            <OPTION>Contrat</OPTION>
-            <OPTION>Réclamation</OPTION>
-            <OPTION>Autre</OPTION>
-        </SELECT>
+        <select name="subject" id="subject" size="1">
+            <option value="">Sujet de la demande</option>
+            <option>Facture</option>
+            <option>Contrat</option>
+            <option>Réclamation</option>
+            <option>Autre</option>
+        </select>
     </div>
     <div>
         <label for="msg">Votre message :</label>
